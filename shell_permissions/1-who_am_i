@@ -1,2 +1,2 @@
 #!/bin/bash
-Root=$(whoami)
+echo "Root: $1-who_am_i"
