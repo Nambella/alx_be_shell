@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Root:$current-user"
+echo Root:$whoami
+
